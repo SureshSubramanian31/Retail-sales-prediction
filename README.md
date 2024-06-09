@@ -2,51 +2,67 @@
 Introduction
 Retail Sales Forecast employs advanced machine learning techniques, prioritizing careful data preprocessing, feature enhancement, and comprehensive algorithm assessment and selection. Exploratory Data Analysis (EDA) to find trends, patterns, and data insights. It offers users interactive tools to explore top-performing stores and departments, conduct insightful feature comparisons, and obtain personalized sales forecasts. With a commitment to delivering actionable insights, the project aims to optimize decision-making processes within the dynamic retail landscape.
 
-Key Technologies and Skills:
+# Key Technologies and Skills:
 
-Python,
+  Python,
 
-Scikit-Learn,
+  Scikit-Learn,
 
-Numpy,
+  Numpy,
 
-Pandas,
+  Pandas,
 
-Plotly,
+  Plotly,
 
-Matplotlib,
+  Matplotlib,
 
-Seaborn.
+  Seaborn.
 
-1.) Data Understanding and Preprocessing:
-Load the datasets.
-Handle missing values.
-Convert date formats.
-Extract features such as year, month, and week number.
-Normalize or scale numerical data.
+# 1.) Data Understanding and Preprocessing:
 
-2.) Exploratory Data Analysis (EDA):
-Visualize trends, seasonality, and the impact of holidays.
-Analyze correlations between sales and other features.
+  Load the datasets.
+  
+  Handle missing values.
+  
+  Convert date formats.
+  
+  Extract features such as year, month, and week number.
+  
+  Normalize or scale numerical data.
 
-3.) Feature Engineering:
-Create new features such as lagged sales, rolling averages, and holiday flags.
-Encode categorical variables as needed.
+# 2.) Exploratory Data Analysis (EDA):
 
-4.) Model Selection and Training:
-Split data into training and validation sets.
-Train various models (e.g., ARIMA, Random Forest, LSTM).
-Evaluate models using metrics like RMSE and MAE, with a focus on holiday weeks.
+  Visualize trends, seasonality, and the impact of holidays.
+  
+  Analyze correlations between sales and other features.
 
-5.) Markdown Effect Analysis:
-Simulate sales with and without markdowns.
-Quantify the impact of markdowns on sales.
+# 3.) Feature Engineering:
 
-6.) Recommendations:
+  Create new features such as lagged sales, rolling averages, and holiday flags.
+  
+  Encode categorical variables as needed.
+
+# 4.) Model Selection and Training:
+
+  Split data into training and validation sets.
+
+  Train various models (e.g., ARIMA, Random Forest, LSTM).
+
+  Evaluate models using metrics like RMSE and MAE, with a focus on holiday weeks.
+
+# 5.) Markdown Effect Analysis:
+
+  Simulate sales with and without markdowns.
+  
+  Quantify the impact of markdowns on sales.
+
+# 6.) Recommendations:
+
 Provide actionable insights for markdown strategies and holiday planning.
 Suggest improvements for future data collection.
 
-7.) Results:
+# 7.) Results:
+
 Sales Forecasts: Accurate weekly sales predictions for each department.
 Markdown Insights: Quantitative analysis of markdown impacts on sales.
 Strategic Recommendations: Data-driven suggestions for promotional and holiday strategies to maximize business impact.
