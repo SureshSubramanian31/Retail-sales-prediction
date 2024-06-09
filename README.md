@@ -58,52 +58,61 @@ Retail Sales Forecast employs advanced machine learning techniques, prioritizing
 
 # 6.) Recommendations:
 
-Provide actionable insights for markdown strategies and holiday planning.
-Suggest improvements for future data collection.
+  Provide actionable insights for markdown strategies and holiday planning.
+  
+  Suggest improvements for future data collection.
 
 # 7.) Results:
 
-Sales Forecasts: Accurate weekly sales predictions for each department.
-Markdown Insights: Quantitative analysis of markdown impacts on sales.
-Strategic Recommendations: Data-driven suggestions for promotional and holiday strategies to maximize business impact.
+  Sales Forecasts: Accurate weekly sales predictions for each department.
 
-8.) Project Evaluation Metrics:
-Root Mean Squared Error (RMSE)
-Mean Absolute Error (MAE)
-Weighted Metrics: Higher weights for holiday weeks to reflect their importance.
+  Markdown Insights: Quantitative analysis of markdown impacts on sales.
 
-9.) Project Deliverables:
+  Strategic Recommendations: Data-driven suggestions for promotional and holiday strategies to maximize business impact.
+
+# 8.) Project Evaluation Metrics:
+
+  Root Mean Squared Error (RMSE)
+  
+  Mean Absolute Error (MAE)
+  
+  Weighted Metrics: Higher weights for holiday weeks to reflect their importance.
+
+# 9.) Project Deliverables:
+
 Source Code: Well-documented codebase with comments and explanations.
 
-Some recommendations based on sales data analysis:
 
-1.) Seasonality Analysis:
 
-Examine sales data to identify seasonal patterns. Increase inventory and marketing efforts during peak seasons.
+# Some recommendations based on sales data analysis:
 
-2.) Product Performance:
+# 1.) Seasonality Analysis:
 
-Identify high-performing and low-performing products. Focus on promoting and stocking high-demand items while discontinuing or discounting low-performing ones.
+  Examine sales data to identify seasonal patterns. Increase inventory and marketing efforts during peak seasons.
 
-3.) Customer Segmentation:
+# 2.) Product Performance:
 
-Segment customers based on purchasing behavior. Tailor marketing strategies to different segments to increase sales.
+  Identify high-performing and low-performing products. Focus on promoting and stocking high-demand items while discontinuing or discounting low-performing ones.
 
-4.) Promotion Effectiveness:
+# 3.) Customer Segmentation:
 
-Analyze the impact of promotions and markdowns on sales. Optimize promotional strategies to maximize revenue.
+  Segment customers based on purchasing behavior. Tailor marketing strategies to different segments to increase sales.
 
-5.) Inventory Management:
+# 4.) Promotion Effectiveness:
 
-Ensure optimal inventory levels to avoid stockouts and overstock situations. Use sales forecasts to guide inventory decisions.
+  Analyze the impact of promotions and markdowns on sales. Optimize promotional strategies to maximize revenue.
 
-6.) Pricing Strategy:
+# 5.) Inventory Management:
 
-Evaluate pricing strategies to find the optimal price point that maximizes sales and profitability.
+  Ensure optimal inventory levels to avoid stockouts and overstock situations. Use sales forecasts to guide inventory decisions.
 
-7.) Store Layout and Placement:
+#6.) Pricing Strategy:
 
-Analyze the store layout and product placement to enhance customer experience and drive sales.
+  Evaluate pricing strategies to find the optimal price point that maximizes sales and profitability.
+
+# 7.) Store Layout and Placement:
+
+  Analyze the store layout and product placement to enhance customer experience and drive sales.
 
 
 
