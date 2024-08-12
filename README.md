@@ -86,33 +86,27 @@ Source Code: Well-documented codebase with comments and explanations.
 
 # Some recommendations based on sales data analysis:
 
-# 1.) Seasonality Analysis:
+# 1.) Markdown Strategies:
 
-  Examine sales data to identify seasonal patterns. Increase inventory and marketing efforts during peak seasons.
+Optimize Timing: The markdown strategy should be optimized based on the model's predictions to maximize sales while minimizing loss. High RMSE and MAE values in markdown predictions suggest a need for better timing and selection of products for markdown.
 
-# 2.) Product Performance:
+Selective Markdown Application: Consider applying markdowns selectively to items with lower elasticity. Products that do not show significant sales improvement after markdowns might be better off with other promotional strategies.
 
-  Identify high-performing and low-performing products. Focus on promoting and stocking high-demand items while discontinuing or discounting low-performing ones.
+ 
+# 2.) Holiday Planning:
 
-# 3.) Customer Segmentation:
+Early Inventory Adjustments: Predictions can inform inventory adjustments before major holidays. Stocking up on high-demand items well before holidays can help capture early shoppers and avoid stockouts.
 
-  Segment customers based on purchasing behavior. Tailor marketing strategies to different segments to increase sales.
+Tailored Promotions: Use model predictions to create holiday-specific promotions. For instance, markdowns might be more effective on specific product categories during holidays, and these should be targeted with appropriate marketing.
 
-# 4.) Promotion Effectiveness:
+# 3.)  Data Collection Improvements:
 
-  Analyze the impact of promotions and markdowns on sales. Optimize promotional strategies to maximize revenue.
+Granular Markdown Data: Collect more detailed data on markdown application, including exact times and duration of markdowns, as well as the percentage markdown. This will improve the accuracy of markdown predictions.
 
-# 5.) Inventory Management:
+Enhanced Feature Set: Include additional features like customer demographics, competitor pricing, and external economic indicators (e.g., consumer confidence index) to enrich the data and improve model accuracy.
 
-  Ensure optimal inventory levels to avoid stockouts and overstock situations. Use sales forecasts to guide inventory decisions.
+Holiday-Specific Indicators: Integrate holiday-specific variables such as special promotions, advertising spend, or holiday-themed product lines to refine holiday planning predictions.
 
-#6.) Pricing Strategy:
-
-  Evaluate pricing strategies to find the optimal price point that maximizes sales and profitability.
-
-# 7.) Store Layout and Placement:
-
-  Analyze the store layout and product placement to enhance customer experience and drive sales.
 
 
 
